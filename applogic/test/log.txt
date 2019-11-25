@@ -1,0 +1,10 @@
+[32m[1minfo   [22m[39m - [1mEasyRTC: [22mStarting EasyRTC Server (v2.0.5) on Node (v12.2.0) [90mundefined[39m
+listening on https://localhost:3000
+[32m[1minfo   [22m[39m - [1mEasyRTC: [22mEasyRTC Server Ready For Connections (v2.0.5) [90mundefined[39m
+Missed StillAliveTimer, fired disconnect
+Missed StillAliveTimer, fired disconnect
+Missed StillAliveTimer, fired disconnect
+Missed StillAliveTimer, fired disconnect
+Missed StillAliveTimer, fired disconnect
+Missed StillAliveTimer, fired disconnect
+Missed StillAliveTimer, fired disconnect
